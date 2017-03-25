@@ -1,0 +1,29 @@
+{
+  "name": "quizserver",
+  "version": "1.0.0",
+  "description": "quiz server",
+  "main": "admin.js",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "js-sha256": "^0.3.0",
+    "mongodb": "^2.2.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bugartgames/QuizServer.git"
+  },
+  "keywords": [
+    "quiz"
+  ],
+  "author": "Bugart Games",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bugartgames/QuizServer/issues"
+  },
+  "homepage": "https://github.com/bugartgames/QuizServer#readme"
+}
